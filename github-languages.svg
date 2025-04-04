@@ -16,15 +16,30 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 274b of code in 4 edited files across 48 commits over last 24 days</small>
+                <small>estimation from 16.1kb of code in 15 edited files across 13 commits over last 28 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#c065db"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.43984837401075" height="8" fill="#db5855"/>
+                    <rect mask="url(#languages-bar)" x="458.43984837401075" y="0" width="1.5601516259892265" height="8" fill="#c065db"/>
                 </svg>
                 <div class="row fill-width">
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#db5855" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Clojure
+                            </div>
+                            <small>
+                                <div>14.9 kB</div>
+                                <div>99.66%</div>
+                            </small>
+                        </div>
+                    </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
@@ -35,11 +50,9 @@
                             </div>
                             <small>
                                 <div>51 bytes</div>
-                                <div>100%</div>
+                                <div>0.34%</div>
                             </small>
                         </div>
-                    </section>
-                    <section>
                     </section>
                 </div>
             </section>
